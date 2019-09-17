@@ -1,4 +1,5 @@
 nouveau conflit
-ajout
+ajou
+conflit avec master du github distant
 generation conflit
 conflit master / mabranche
